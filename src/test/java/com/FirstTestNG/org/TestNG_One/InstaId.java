@@ -74,7 +74,9 @@ public class InstaId {
 		
 		driver.findElement(By.xpath("//a[contains(text(),'Forgot')]")).click();
 		
-		driver.close();
+		//driver.close();
+		
+		
 		
 		
 		
