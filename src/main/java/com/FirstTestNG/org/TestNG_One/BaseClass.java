@@ -23,7 +23,7 @@ public class BaseClass {
 	public static WebDriver driver; 
 	
 	
-	public static WebDriver setUrl(String browsername) {
+	public static WebDriver setbrowser(String browsername) {
 
 		try {
 			if (browsername.equalsIgnoreCase("Chrome")) {
